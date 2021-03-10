@@ -1,0 +1,6 @@
+com\cs\ssm\dao\IProductDao.class
+com\cs\ssm\dao\IPermissionDao.class
+com\cs\ssm\dao\IRoleDao.class
+com\cs\ssm\dao\ISysLogDao.class
+com\cs\ssm\dao\IUserDao.class
+com\cs\ssm\dao\IOrdersDao.class
